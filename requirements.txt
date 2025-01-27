@@ -1,0 +1,8 @@
+streamlit 
+googletrans
+gtts
+pydub
+SpeechRecognition
+pyaudio
+openai 
+audio-recorder-streamlit
